@@ -1,4 +1,4 @@
-# Hi there, I'm [Chaitanya Sawant]! 👋
+# Hi there, I'm Chaitanya Sawant! 👋
 
 I am a **AI Native Developer** and **Automation Enthusiast** dedicated to building premium digital experiences and high-impact AI solutions. 
 
