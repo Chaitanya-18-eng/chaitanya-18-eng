@@ -1,4 +1,4 @@
-# Hi there, I'm ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+[Your+Name];Creative+Developer;Automation+Enthusiast;Building+with+Stitch+%26+Antigravity)! 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Chaitanya Sawant;AI +Native+Developer;Automation+Enthusiast;Building+with+Stitch+%26+Antigravity)
 
 I am a **AI Native Developer** and **Automation Enthusiast** dedicated to building premium digital experiences and high-impact AI solutions. 
 
